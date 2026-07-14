@@ -22,10 +22,3 @@ A fullstack developer. [My Website](https://faw-waz.xyz)
 ### Creative Platforms
 
 * Soundcloud: [fawwazfrysd](https://soundcloud.com/fawwazfrysd)
-
----
-
-### About
-My Personal Website!
-
----
