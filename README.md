@@ -19,6 +19,6 @@ A fullstack developer. [My Website](https://faw-waz.xyz)
 * Github: [fa33az](https://github.com/fa33az)
 * Medium: [@fawwazfrsyd](https://medium.com/@fawwazfrsyd)
 
-### Creative Platforms
+### Donations
 
-* Soundcloud: [fawwazfrysd](https://soundcloud.com/fawwazfrysd)
+* Soundcloud: [tako.id/fa33az](https://tako.id/fa33az))
