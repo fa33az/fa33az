@@ -21,4 +21,4 @@ A fullstack developer. [My Website](https://faw-waz.xyz)
 
 ### Donations
 
-* Soundcloud: [tako.id/fa33az](https://tako.id/fa33az))
+* Tako: [tako.id/fa33az](https://tako.id/fa33az))
